@@ -1,0 +1,15 @@
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\bin\Debug\UI.exe.config
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\bin\Debug\UI.exe
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\bin\Debug\UI.pdb
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\obj\Debug\UI.exe
+C:\Users\jarroyog\Source\Repos\jarroyog\ProyectoP3\Juegos\UI\obj\Debug\UI.pdb

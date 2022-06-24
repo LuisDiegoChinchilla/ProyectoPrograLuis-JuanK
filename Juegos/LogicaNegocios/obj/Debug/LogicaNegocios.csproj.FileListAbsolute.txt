@@ -1,0 +1,6 @@
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\LogicaNegocios\bin\Debug\LogicaNegocios.dll
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\LogicaNegocios\bin\Debug\LogicaNegocios.pdb
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\LogicaNegocios\obj\Debug\LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\LogicaNegocios\obj\Debug\LogicaNegocios.dll
+C:\Users\jarroyog\Universidad Americana Uam SRL\Proyecto1 Progra3 - General\Juegos\LogicaNegocios\obj\Debug\LogicaNegocios.pdb
